@@ -1079,6 +1079,27 @@ High
     "FFlagEnableNewFontNameMappingABTest2": "False"
 }
 ```
+### Set FrameRate
+###### we had "1", "2" AND NOW "3"
+```json
+{
+    "FFlagGameBasicSettingsFramerateCap3": "True"
+}
+```
+### HEAD COLLISION FOR R15
+###### you know that roblox forgor the head collision? well here it is (your not gonna use it so u can still bug)
+```json
+{
+    "FFlagMeshPartHeadsDefaultIsEnabled": "false"
+}
+```
+### Remove Captures on PC
+###### Yes they're trying to add that Capture on PC Too
+```json
+{
+    "FFlagEnableCapturesDesktopExperiment_v9": "false"
+}
+```
 
 <h1 align="center">Partnered Discord Servers</h1>
 
