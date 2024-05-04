@@ -1100,6 +1100,14 @@ High
     "FFlagEnableCapturesDesktopExperiment_v9": "false"
 }
 ```
+### Reduces Textures
+###### https://hydrogenexecutor.com/fast-flags-roblox-fps-scripts/
+```json
+{
+    "FFlagGraphicsGLTextureReduction": "true"
+}
+```
+
 
 <h1 align="center">Partnered Discord Servers</h1>
 
