@@ -1027,49 +1027,56 @@ High
     "FStringDebugLuaLogPattern": "ExpChat/mountClientApp"
 }
 ```
-### Self Explanatory 1
+### Idk
 ```json
 {
     "DFFlagDebugPrintDataPingBreakDown": "True"
 }
 ```
-### Self Explanatory 2
+### Audio Logger?
 ```json
 {
     "DFFlagDebugAudioLogging": "True"
 }
 ```
-### Duplicate of Above
+### Audio Logger 2?
 ```json
 {
     "DFFlagDebugAudioLogging2": "True"
 }
 ```
-### Self Explanatory 3
+### what is this??
 ```json
 {
     "FFlagTrackerLodControllerDebugUI": "True"
 }
 ```
-### Self Explanatory 4
+### No Dragetectors
 ###### Disable Drag Detectors
 ```json
 {
     "FFlagDragDetectors1": "False"
 }
 ```
-### Self Explanatory 5
+### No click to move climbing
 ###### Disabe CTM Climbing
 ```json
 {
     "FFlagUserClickToMoveSupportAgentCanClimb2": "False"
 }
 ```
-### Self Explanatory 6
-###### Disabe Feedback Button in ESC
+### Remove feedback button (useless)
+###### Disable Feedback Button in ESC
 ```json
 {
     "FFlagDisableFeedbackSoothsayerCheck": "False"
+}
+```
+### Remove The New Font
+###### Oh my freaking god no builder sans gang
+```json
+{
+    "FFlagEnableNewFontNameMappingABTest2": "False"
 }
 ```
 
